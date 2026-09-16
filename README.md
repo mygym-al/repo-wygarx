@@ -1,8 +1,10 @@
 2026/09/16 13:52:14
 
-<!-- notify 1/2 · PY0gFcUW -->
-## Notification 1/2
-Round: Round 1
-To: peg224@juno.com, citrusking77@yahoo.com
-At: 2026-09-16 13:52:23
-Id: PY0gFcUW
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: cvmoreno8@yahoo.com, jgss1234@yahoo.com
+At: 2026-09-16 13:52:31
+Id: RyKA0nYH
